@@ -54,6 +54,6 @@ Publications
   * Publisher: IEEE
   * Conference: 2020 International Conference on Inventive Computation Technologies (ICICT)
   
-> email: 	bssughosh27@gmail.com \
-> Mumbai
+----------------------
+> Location: Mumbai
   
