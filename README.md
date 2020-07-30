@@ -50,9 +50,9 @@ Publications
 ------------
 
 1. **Robotic Process Automation Through Advance Process Analysis Model**
-  * DOI: 10.1109/ICICT48043.2020.9112447
-  * Publisher: IEEE
-  * Conference: 2020 International Conference on Inventive Computation Technologies (ICICT)
+   * DOI: 10.1109/ICICT48043.2020.9112447
+   * Publisher: IEEE
+   * Conference: 2020 International Conference on Inventive Computation Technologies (ICICT)
   
 ----------------------
 > Location: Mumbai
