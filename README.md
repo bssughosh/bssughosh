@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bssughosh?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/champ_killers?style=social)
 
-![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=wheniwork&link=https://drive.google.com/file/d/1gfNLZOXE5bqTvfvCaLcuiDmVSyTmH3a8/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1gfNLZOXE5bqTvfvCaLcuiDmVSyTmH3a8/view?usp=sharing)
 
 ### Skills 
 
