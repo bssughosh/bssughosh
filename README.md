@@ -1,87 +1,104 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sughosh Sudhanvan!
 
-![GitHub followers](https://img.shields.io/github/followers/bssughosh?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/champ_killers?style=social)
+[Resume](Sughosh%20Sudhanvan%20-%20Resume.pdf)
 
-[Resume](https://drive.google.com/file/d/1gfNLZOXE5bqTvfvCaLcuiDmVSyTmH3a8/view?usp=sharing)
+### Skills
 
-### Skills 
-
-* Application Development
-* Data Analysis
-* Machine Learning
-* Problem Solving
+- Application Development
+- Web Development
+- Data Analysis
+- Problem Solving
 
 ---
 
 ### 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C/C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JAVA Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sas-institute.svg" alt="SAS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C/C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JAVA Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sas-institute.svg" alt="SAS Logo" width="50" height="50"/>
 
 ---
 
 ### Experience
 
-#### Cerebranium _(Software Development Engineer 2)_
-  * DECEMBER 2021 - PRESENT, GERMANY
-  * I am responsible for representing engineering with a more active role in overall product strategy alongside other product leadership members. I am also responsible for increasing levels of automation in engineering processes to help deliver value incrementally at high quality and high speed. Along with this, I am performing tasks like deployment and integration testing.
+#### Cerebranium GmBH _(Software Development Engineer 2)_
 
-#### Cerebranium _(Software Development Engineer)_
-  * JULY 2021 - DECEMBER, 2021, GERMANY
-  * I was responsible for improving the overall stability and reliance of the applications built. This was done by writing e2e integration tests, unit tests and by integrating them with CI/CD pipeline, we could automate these manual tasks. My responsibility  also was to release the applications to the Play Store/App Store.
+- _JUNE 2021 - JUNE 2023_
+- Spearheaded development of robust and user-friendly mobile applications using Flutter Clean Architecture for Promexa and
+  Myracle.io, meeting specific product requirements.
+- Contributed to DevOps by devising scripts with GitHub Actions, automating app building and deployment, resulting in efficient and consistent server deployment.
+- Prioritized application stability by implementing comprehensive end-to-end integration tests and unit tests, integrated into the CI/CD pipeline, ensuring ongoing quality assurance.
+- Managed release process for production applications on AppStore and PlayStore, ensuring seamless delivery to users while adhering to standards and guidelines.
+- Headed a team of 10 engineers from various domains, ensuring product success through effective leadership and coordination.
+- Managed team operations in a completely remote-first organization, achieving effective project execution and fostering productivity and cohesion.
 
 #### Cerebranium _(Software Engineering Intern)_
-  * OCTOBER 2020 - JULY 2021, GERMANY
-  * I was responsible for the application development using Flutter Clean Architecture. The applications I worked on here were Promexa and Promexa Institution. The applications were live on iOS, Android and website. These applications focused on simplifying exam conduction for both the students and the faculty.
+
+- _OCTOBER 2020 - MAY 2021_
+- Constructed Promexa applications using Flutter Clean Architecture, streamlining the examination process for students and faculty with an offline-first approach and advanced AI proctoring system, resulting in effective launch on iOS AppStore, Android Play Store, and web platform.
+- Collaborated with students and faculty members to build user-friendly solutions.
 
 ---
 
 ### Communication
 
-* Spoken and Written
-  * English
-  * Hindi
-  * Marathi
-* Spoken
-  * Kannada
-  * Tamil
+- Spoken and Written
+  - English
+  - Hindi
+  - Marathi
+- Spoken
+  - Kannada
+  - Tamil
 
 ---
 
-### Projects Worked On
+### Academic Projects
+
+1. [Agri Guide](https://github.com/bssughosh/agri-guide)
+
+   Created a mobile and web app for farmers, utilizing weather and yield predictions to optimize crop selection and enhance decision- making.
+
+1. [Fabric Defect Detection](https://github.com/bssughosh/fabric-defect-detection)
+
+   Devised a MATLAB program that detects fabric defects by identifying and highlighting damaged regions on images.
+
+1. [Business Vision](https://github.com/bssughosh/Business-Vision-Website)
+
+   Created a website facilitating seamless and authentic product sales from wholesalers to retailers by validating them through Aadhar and GST numbers.
 
 1. [Mini OS - Linux Kernel](https://github.com/bssughosh/Mini-OS-Linux-Kernel)
-2. [Gift of Life Android Application](https://github.com/bssughosh/GiftOfLife)
-3. [Business Vision Web App](https://github.com/bssughosh/Business-Vision-Website)
-4. [Save Daughter Mobile Application](https://github.com/amandesai01/SaveDaughter)
-5. [Fabric Defect Detection](https://github.com/bssughosh/fabric-defect-detection)
-6. [Agri Guide App](https://github.com/bssughosh/agri-guide)
-7. [Agri Guide API](https://github.com/bssughosh/Agri-Guide-API)
+
+   Created a JAVA application emulating crucial functionalities of a Linux Kernel, such as process management, I/O operations, file handling, and memory management.
+
+1. [Gift of Life](https://github.com/bssughosh/GiftOfLife)
+
+   Constructed an Android app connecting individuals with nearby hospitals/blood banks for blood donation or receiving, fostering a noble cause that was a need of the hour.
 
 ---
 
 ### Publications
 
 1. **Robotic Process Automation Through Advance Process Analysis Model**
-   * PUBLISHED ON - 09 JUNE 2020
-   * DOI: 10.1109/ICICT48043.2020.9112447
-   * Publisher: IEEE
+
+   - PUBLISHED ON - 09 JUNE 2020
+   - DOI: 10.1109/ICICT48043.2020.9112447
+   - Publisher: IEEE
 
 2. **Fake News Detection Using Convolutional Neural Networks and Random Forest A Hybrid Approach**
-   * PUBLISHED ON - 31 MARCH 2021
-   * DOI: 10.1007/978-981-33-6691-6_39
-   * Publisher: Springer
-   
+   - PUBLISHED ON - 31 MARCH 2021
+   - DOI: 10.1007/978-981-33-6691-6_39
+   - Publisher: Springer
 3. **Advanced Rainfall Prediction Model for India using Various Regression Algorithms**
-   * PUBLISHED ON - 14 OCTOBER 2021
-   * DOI: 10.1007/978-981-16-2712-5_30
-   * Publisher: Springer
+
+   - PUBLISHED ON - 14 OCTOBER 2021
+   - DOI: 10.1007/978-981-16-2712-5_30
+   - Publisher: Springer
 
 4. **Crop Yield Prediction for India using Regression Algorithms**
-   * PUBLISHED ON - 21 OCTOBER 2021
-   * DOI: 10.1007/978-3-030-88244-0_23
-   * Publisher: Springer
+   - PUBLISHED ON - 21 OCTOBER 2021
+   - DOI: 10.1007/978-3-030-88244-0_23
+   - Publisher: Springer
 
 ---
 
-> Location: Mumbai
+> Location: Los Angeles, California
+
+> Contact details: bssughosh27@gmail.com
