@@ -6,6 +6,7 @@
 
 - Application Development
 - Web Development
+- Backend Implementation
 - Data Analysis
 - Problem Solving
 
