@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sughosh Sudhanvan!
 
-[Resume](Sughosh%20Sudhanvan%20-%20Resume.pdf)
+[Resume](Sughosh_Sudhanvan-Resume.pdf)
 
 ### Skills
 
