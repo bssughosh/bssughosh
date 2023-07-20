@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sughosh Sudhanvan!
 
-[Resume](Sughosh%20Sudhanvan%20-%20Resume.pdf)
+[Resume](Sughosh_Sudhanvan-Resume.pdf)
 
 ### Skills
 
@@ -14,7 +14,7 @@
 
 ### 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C/C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JAVA Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sas-institute.svg" alt="SAS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C/C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JAVA Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 
